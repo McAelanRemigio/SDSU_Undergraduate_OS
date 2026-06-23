@@ -5,7 +5,7 @@ layout: default
 
 # McAelan Remigio
 
-**Undergraduate Archive — San Diego State University**  
+Undergraduate Archive — San Diego State University  
 Statistics & Data Science | Leadership Development
 
 ---
@@ -14,36 +14,50 @@ Statistics & Data Science | Leadership Development
 
 A structured archive of my undergraduate experience across academics, leadership, performance, and writing.
 
-Each section represents a different way of engaging with systems: learning them, building them, performing within them, and reflecting on them.
+This is not a résumé.  
+It is a system of learning, building, performing, and reflecting.
 
 ---
 
 ## Explore
 
-### 📊 Academics
-Coursework, technical learning, and academic progression.
+<div class="card-grid">
 
-→ [View Academics](./academics.md)
+<div class="card">
+<h3>📊 Academics</h3>
+<p>Coursework, technical learning, and academic progression in Data Science and Leadership.</p>
+<a href="./academics.md">Open →</a>
+</div>
+
+<div class="card">
+<h3>🧠 Leadership</h3>
+<p>Organizations, initiatives, and systems I helped build or contribute to.</p>
+<a href="./leadership.md">Open →</a>
+</div>
+
+<div class="card">
+<h3>🎭 Performance</h3>
+<p>Esports, music, and competitive/community-based experiences.</p>
+<a href="./performance.md">Open →</a>
+</div>
+
+<div class="card">
+<h3>✍️ Writing</h3>
+<p>Long-form essays and reflective publications on Medium.</p>
+<a href="./writing.md">Open →</a>
+</div>
+
+</div>
 
 ---
 
-### 🧠 Leadership
-Organizations, roles, and initiative-building work.
+## Philosophy
 
-→ [View Leadership](./leadership.md)
+I approach work through systems:
 
----
+- Learn systems (academics)
+- Build systems (leadership)
+- Compete in systems (performance)
+- Reflect on systems (writing)
 
-### 🎭 Performance
-Esports, music performance, and competitive/community engagement.
-
-→ [View Performance](./performance.md)
-
----
-
-### ✍️ Writing
-Long-form reflective essays and publications.
-
-→ [View Writing](./writing.md)
-
----
+This archive reflects that structure.
