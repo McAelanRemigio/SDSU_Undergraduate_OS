@@ -149,7 +149,7 @@ Additional coursework not detailed here.
 **Work:** ?? hrs/week
 
 ### Concurrent Experiences
-- Data Assistant (S&O), SDSU Global Education Office: ?? hrs/week
-- Instructional Assistant (CS 577): 12 hrs/week (through July 2026)
+- Data Assistant (S&O), SDSU Global Education Office: 10-15 hrs/week
+- Instructional Assistant (CS 577): 15 hrs/week (through July 2026)
 
 ---
