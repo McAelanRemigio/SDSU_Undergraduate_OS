@@ -26,25 +26,25 @@ It is a system of learning, building, performing, and reflecting.
 <div class="card">
 <h3>📊 Academics</h3>
 <p>Coursework, technical learning, and academic progression in Data Science and Leadership.</p>
-<a href="./academics.md">Open →</a>
+<a href="./academics/">Open →</a>
 </div>
 
 <div class="card">
 <h3>🧠 Leadership</h3>
 <p>Organizations, initiatives, and systems I helped build or contribute to.</p>
-<a href="./leadership.md">Open →</a>
+<a href="./leadership/">Open →</a>
 </div>
 
 <div class="card">
 <h3>🎭 Performance</h3>
 <p>Esports, music, and competitive/community-based experiences.</p>
-<a href="./performance.md">Open →</a>
+<a href="./performance/">Open →</a>
 </div>
 
 <div class="card">
 <h3>✍️ Writing</h3>
 <p>Long-form essays and reflective publications on Medium.</p>
-<a href="./writing.md">Open →</a>
+<a href="./writing/">Open →</a>
 </div>
 
 </div>
