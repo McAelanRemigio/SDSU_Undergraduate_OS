@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-
   const elements = document.querySelectorAll(".fade");
 
   const observer = new IntersectionObserver((entries) => {
@@ -9,9 +8,15 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   }, {
-    threshold: 0.15
+    threshold: 0.1
   });
 
   elements.forEach(el => observer.observe(el));
 
+  elements.forEach(el => {
+    const rect = el.getBoundingClientRect();
+    if (rect.top < window.innerHeight) {
+      el.classList.add("show");
+    }
+  });
 });
