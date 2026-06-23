@@ -1,7 +1,7 @@
 # Competitive Esports & Community Building
 
 **Role:** Competitor, Commentator, Community Organizer  
-**Tag:** Filipino Boyfriend (formerly Honor, PSIPSY)  
+**Tag:** Filipino Boyfriend (formerly Honor, PSIPSY)
 **Overall Timeframe:** 2019 – Present  
 **SDSU Timeframe:** 2024 – Present  
 **Location:** Southern California
