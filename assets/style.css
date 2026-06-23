@@ -115,14 +115,13 @@ a:hover{
   text-decoration:underline;
 }
 
-/* FADE SYSTEM (JS-controlled, no CSS animation conflicts) */
-.fade{
-  opacity:0;
-  transform:translateY(20px);
-  transition:0.6s ease;
+.fade {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: 0.6s ease;
 }
 
-.fade.show{
-  opacity:1;
-  transform:none;
+.fade.show {
+  opacity: 1;
+  transform: none;
 }
