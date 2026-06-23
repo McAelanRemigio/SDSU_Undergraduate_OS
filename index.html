@@ -1,165 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>McAelan Remigio | SDSU Archive</title>
 
-<title>McAelan Remigio | Undergraduate Archive</title>
-
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
-
-<style>
-:root{
-  --bg:#070A12;
-  --card:rgba(255,255,255,0.06);
-  --border:rgba(255,255,255,0.12);
-  --text:#ffffff;
-  --muted:#b9bfd1;
-  --accent:#6ea8ff;
-}
-
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-  font-family:Inter;
-}
-
-body{
-  background:radial-gradient(circle at 20% 20%,rgba(110,168,255,.15),transparent 40%),
-             var(--bg);
-  color:var(--text);
-  overflow-x:hidden;
-}
-
-/* HERO */
-.hero{
-  min-height:100vh;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  text-align:center;
-  padding:40px;
-}
-
-.hero h1{
-  font-size:clamp(2.5rem,6vw,5rem);
-  font-weight:800;
-  letter-spacing:-1px;
-}
-
-.hero p{
-  margin-top:20px;
-  color:var(--muted);
-  font-size:1.1rem;
-}
-
-.tag{
-  display:inline-block;
-  margin-bottom:20px;
-  padding:8px 16px;
-  border:1px solid var(--border);
-  border-radius:999px;
-  color:var(--accent);
-  font-size:.9rem;
-}
-
-/* GRID */
-.grid{
-  max-width:1100px;
-  margin:-80px auto 100px auto;
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
-  gap:20px;
-  padding:0 20px;
-}
-
-.card{
-  background:var(--card);
-  border:1px solid var(--border);
-  padding:22px;
-  border-radius:18px;
-  transition:.3s;
-}
-
-.card:hover{
-  transform:translateY(-6px);
-  border-color:rgba(110,168,255,.5);
-}
-
-.card h3{
-  margin-bottom:10px;
-}
-
-.card p{
-  color:var(--muted);
-  font-size:.95rem;
-  line-height:1.5;
-}
-
-a{
-  color:var(--accent);
-  text-decoration:none;
-  display:inline-block;
-  margin-top:12px;
-}
-
-/* FOOTER */
-footer{
-  text-align:center;
-  color:var(--muted);
-  padding:60px 20px;
-}
-</style>
+<link rel="stylesheet" href="./assets/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
-<section class="hero">
+<section class="hero fade">
   <div>
-    <div class="tag">Undergraduate Archive • SDSU</div>
-
     <h1>McAelan Remigio</h1>
-
     <p>
+      Undergraduate Archive — SDSU<br>
       Data Science • Leadership • Performance • Writing
-      <br><br>
-      A structured archive of my undergraduate experience.
     </p>
   </div>
 </section>
 
-<section class="grid">
+<section class="grid fade">
 
   <div class="card">
     <h3>📊 Academics</h3>
-    <p>Coursework, progression, and applied technical learning.</p>
-    <a href="./academics/">Open →</a>
+    <p>Coursework + progression in Data Science & Leadership.</p>
+    <a href="./Major-Statistics-Data-Science-BS/">Enter →</a>
   </div>
 
   <div class="card">
     <h3>🧠 Leadership</h3>
     <p>Organizations, initiatives, and systems I helped build.</p>
-    <a href="./leadership/">Open →</a>
+    <a href="./Extracurricular Leadership/">Enter →</a>
   </div>
 
   <div class="card">
     <h3>🎭 Performance</h3>
-    <p>Esports, music, and competitive/community performance.</p>
-    <a href="./performance/">Open →</a>
+    <p>Esports, music, and competitive community participation.</p>
+    <a href="./Extracurriculars/">Enter →</a>
   </div>
 
   <div class="card">
     <h3>✍️ Writing</h3>
-    <p>Reflections and published essays on Medium.</p>
-    <a href="./writing/">Open →</a>
+    <p>Reflections and published Medium essays.</p>
+    <a href="./writing/">Enter →</a>
+  </div>
+
+  <div class="card">
+    <h3>📈 Progression</h3>
+    <p>How my coursework evolved over time.</p>
+    <a href="./Undergrad Class Progression.md">View →</a>
   </div>
 
 </section>
-
-<footer>
-Built as an undergraduate archive system • SDSU
-</footer>
 
 </body>
 </html>
