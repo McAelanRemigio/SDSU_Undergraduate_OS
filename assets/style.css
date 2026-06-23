@@ -96,3 +96,51 @@ a:hover{
     transform:none;
   }
 }
+
+.hero{
+  min-height:70vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  padding:80px 20px 40px;
+}
+
+.hero-inner{
+  max-width:800px;
+}
+
+.hero-name{
+  font-size:clamp(3rem,6vw,4.5rem);
+  font-weight:800;
+  letter-spacing:-1px;
+}
+
+.hero-tagline{
+  margin-top:14px;
+  font-size:1.1rem;
+  color:var(--accent);
+  letter-spacing:1px;
+}
+
+.hero-sub{
+  margin-top:14px;
+  color:var(--muted);
+  font-size:0.95rem;
+}
+
+.hero-chips{
+  margin-top:25px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:10px;
+}
+
+.hero-chips span{
+  padding:8px 14px;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:rgba(255,255,255,0.04);
+  font-size:0.85rem;
+}
