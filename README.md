@@ -5,6 +5,7 @@
 - 📘 [Major – Data Science Courses](./Major-Statistics-Data-Science-BS)
 - 🧠 [Leadership Minor Courses](./Minor-Leadership-Development)
 - 🤝 [Extracurricular Leadership](./Extracurricular%20Leadership)
+- 🎭 [Extracurriculars](./Extracurriculars)
 - 📄 [Undergrad Class Progression](./Undergrad%20Class%20Progression.md)
 
 ---
@@ -44,9 +45,12 @@ Content is organized primarily by **major, division level, and course**.
 - **Upper Division**
   - A small number of courses, most of which include artifacts and reflections due to their strong personal and developmental impact
 
-### Extracurricular Leadership
+### Extracurriculars
 
-This section documents meaningful leadership experiences outside the classroom, including organizations I founded or served in leadership roles for. Artifacts here focus on applied leadership work, decision-making, and impact rather than participation alone.
+- **Extracurricular Leadership**
+  - This section documents meaningful leadership experiences outside the classroom, including organizations I founded or served in leadership roles for. Artifacts here focus on applied leadership work, decision-making, and impact rather than participation alone.
+- **Extracurriculars**
+  - This section includes non-academic activities that played a meaningful role in my undergraduate experience, including performance-based, competitive, and personal pursuits such as esports, music performance, and other long-term interests. Unlike Extracurricular Leadership, this section focuses on participation, practice, and personal development rather than formal leadership or organizational roles.
 
 ### Additional Files
 
