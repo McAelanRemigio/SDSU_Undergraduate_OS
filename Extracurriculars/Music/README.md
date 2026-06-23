@@ -1,4 +1,4 @@
-# Music Performance & Storytelling
+# Music Performance & Storytelling 
 
 **Role:** Solo Singer, Duet Performer, Group Performer  
 **Overall Timeframe:** Childhood – Present  
