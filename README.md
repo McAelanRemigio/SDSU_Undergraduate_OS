@@ -1,4 +1,4 @@
-# 📘 Undergraduate Coursework Repository  
+# 📘 Undergraduate Repository  
 **Data Science & Leadership | San Diego State University**
 
 ### Quick Links
@@ -7,6 +7,25 @@
 - 🤝 [Extracurricular Leadership](./Extracurricular%20Leadership)
 - 🎭 [Extracurriculars](./Extracurriculars)
 - 📄 [Undergrad Class Progression](./Undergrad%20Class%20Progression.md)
+
+---
+
+## 👤 About Me
+
+**McAelan Remigio**  
+Statistics: Data Science Major | Leadership Minor  
+San Diego State University
+
+I'm McAelan Remigio, a junior at San Diego State University majoring in Statistics: Data Science. I have ~2 years worth of experience in the field as of the Spring 2026 Term, and I'm fortunate to have led and contributed to several initiatives in data science with leadership.
+
+I have also received the 2025 Daniel B. Nowak Outstanding Student Service Award for my leadership and service in leading and founding multiple student organizations, mentoring students, and directly landing them internships. My goal is always to use data for good and help others grow along the way.
+
+
+This repository reflects:
+
+- My technical growth in **statistics, data science, and computing**
+- My development as a reflective and people-centered leader
+- A learning philosophy focused on application, curiosity, and long-term retention
 
 ---
 
@@ -85,25 +104,6 @@ These courses are still listed for **curricular completeness** and may be marked
 - 🧾 This repository is intended for **learning documentation and professional context**, not course replacement or redistribution
 
 AI tools were used sparingly and transparently (e.g., for syllabus summarization), never as a substitute for academic work or original reasoning.
-
----
-
-## 👤 About Me
-
-**McAelan Remigio**  
-Statistics: Data Science Major | Leadership Minor  
-San Diego State University
-
-I'm McAelan Remigio, a junior at San Diego State University majoring in Statistics: Data Science. I have ~2 years worth of experience in the field as of the Spring 2026 Term, and I'm fortunate to have led and contributed to several initiatives in data science with leadership.
-
-I have also received the 2025 Daniel B. Nowak Outstanding Student Service Award for my leadership and service in leading and founding multiple student organizations, mentoring students, and directly landing them internships. My goal is always to use data for good and help others grow along the way.
-
-
-This repository reflects:
-
-- My technical growth in **statistics, data science, and computing**
-- My development as a reflective and people-centered leader
-- A learning philosophy focused on application, curiosity, and long-term retention
 
 ---
 
