@@ -20,7 +20,6 @@ body{
   color:var(--text);
 }
 
-/* HERO (single clean version) */
 .hero{
   min-height:70vh;
   display:flex;
