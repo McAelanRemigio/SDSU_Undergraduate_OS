@@ -28,8 +28,13 @@ CS 577 is an upper-division and graduate-level course focused on the principles,
 - Bridging the gap between technical implementation and conceptual understanding
 
 ## Outcomes I’m Proud Of
+- Contributed to the development and refinement of instructional materials for CS 577
+- Helped improve assignment structure and supporting resources to make expectations clearer for students
+- Supported students across diverse technical backgrounds as they worked through data science concepts and projects
+- Identified recurring areas of confusion and provided feedback that informed future course improvements
+- Contributed to a learning environment that emphasized practical problem-solving, reproducible analysis, and analytical thinking
+- Gained firsthand experience in how data science education is designed, tested, and continuously improved
 
-- Ongoing
 
 ## Leadership Decisions and Tradeoffs
 
@@ -41,8 +46,13 @@ Some tradeoffs I’m learning to navigate:
 - **Support over spotlight:** Good instructional work often happens in the background, through better examples, clearer assignments, and stronger learning support
 
 ## What I’m Learning
+- How to design educational experiences that balance conceptual understanding with technical implementation
+- Curriculum development principles, including sequencing topics, scaffolding skills, and defining learning outcomes
+- The challenges of teaching data science to students with varying levels of programming, statistics, and domain knowledge
+- How to translate complex technical ideas into explanations that are accurate, approachable, and actionable
+- The importance of iteration in education—small improvements to assignments, examples, and instructions can significantly improve student outcomes
+- How instructional design and data science share similar goals: creating systems that help people make better decisions with information
 
-- Ongoing
 
 ## How CS 577 Connects to My Work Now
 
