@@ -16,9 +16,9 @@
 Statistics: Data Science Major | Leadership Minor  
 San Diego State University
 
-I'm McAelan Remigio, a junior at San Diego State University majoring in Statistics: Data Science. I have ~2 years worth of experience in the field as of the Spring 2026 Term, and I'm fortunate to have led and contributed to several initiatives in data science with leadership.
+I'm McAelan Remigio, a senior at San Diego State University majoring in Statistics: Data Science. I have ~3 years worth of undergraduate experience in the field as of the Spring 2027 Term, and I'm fortunate to have led and contributed to several initiatives in data science with leadership.
 
-I have also received the 2025 Daniel B. Nowak Outstanding Student Service Award for my leadership and service in leading and founding multiple student organizations, mentoring students, and directly landing them internships. My goal is always to use data for good and help others grow along the way.
+I have also received the 2025 Daniel B. Nowak Outstanding Student Service Award, tapped for membership for the 2026 Mortar Board Jane K. Smith Cap and Gown Chapter, the 2026 Prebys Student Leaders Endowed Scholarship, and nominated as 2026 Homecoming Royal for my leadership and service in leading and founding multiple student organizations, mentoring students, and directly landing them internships. My goal is always to use data for good and help others grow along the way.
 
 
 This repository reflects:
