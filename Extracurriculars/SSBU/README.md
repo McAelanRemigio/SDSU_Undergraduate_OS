@@ -1,121 +1,104 @@
-# Competitive Esports & Community Building
+## A Chapter in Competitive Gaming
 
-**Role:** Competitor, Commentator, Community Organizer  
-**Tag:** Filipino Boyfriend (formerly Honor, PSIPSY)
-**Overall Timeframe:** 2019 – Present  
-**SDSU Timeframe:** 2024 – Present  
-**Location:** Southern California
+Competitive gaming was one of the longest-running commitments of my life. For more than a decade, it gave me something to work toward, people to learn from, and communities I wanted to help build.
 
-## Why This Matters To Me
+What began as a personal interest gradually became a much larger part of my life. Across Super Smash Bros. 4, Super Smash Flash 2, and Super Smash Bros. Ultimate, I experienced grassroots competition from several perspectives: as a player, crew leader, tournament organizer, commentator, teammate, and eventually a mentor.
 
-Competitive gaming has been one of the longest-running commitments of my life.
+I have since stepped away from regular competition. I don't see that as erasing the years I spent playing. This section is a record of that chapter: what I accomplished, the communities I was part of, and what I learned along the way.
 
-Unlike research positions, internships, or student leadership roles, esports was something I pursued entirely because I cared about it. Over the years, that interest evolved beyond competition into community-building, event organization, commentary, and historical documentation.
+## What I Built and Accomplished
 
-Across multiple games and communities, I have contributed as a player, crew leader, commentator, organizer, and archivist. What began as a hobby ultimately became a long-term exercise in leadership, resilience, strategic thinking, and community engagement.
+### 1. A Competitive Career Across Multiple Games
 
-## What I Built
+My competitive history spans several games and distinct communities, each of which challenged me in different ways.
 
-### 1) Competitive Career Across Multiple Titles
+**Super Smash Bros. 4 (2016–2018)**
+- Competed in the San Diego grassroots scene, primarily playing Ness.
+- Reached #1 on the San Diego District 5 Power Rankings across multiple ranking periods.
+- Earned several top tournament finishes, including second-place results at Splash and Smash Summer Breakout #3 and Halloweekend.
 
-I have competed across several grassroots esports communities since 2019, including:
+**Super Smash Flash 2 (2019–2023)**
+- Competed primarily with Pac-Man.
+- Reached 33rd globally in Flash Collective Rankings Season 5 and 14th in Season 6.
+- Ranked #1 in the California Flash Online Rankings across eight consecutive ranking periods.
+- Won multiple community tournaments, including The Salty Suite, Smash-20 Breakout, COVID Comeback 2020, Clash at the West Coast, Flashpoint Invitational, Palladium Premier, and Rusty Rivalries.
+- Qualified for the Oasis Invitational and placed 17th overall.
 
-- Super Smash Bros. Ultimate
-- Super Smash Flash 2
-- Flash Party
+**Super Smash Bros. Ultimate (2018–2026)**
+- Competed in the San Diego scene before and after a hiatus, eventually returning to competition in college.
+- Reached #1 on the San Diego District 5 Power Rankings in multiple periods.
+- Joined the San Diego State University Aztec Esports Ultimate team in November 2024.
+- Progressed through the SDSU team rankings, reaching #1 in the H1 2026 period and earning the top roster ranking.
+- Won multiple Aztec Lites events in singles, doubles, and Squad Strike.
+- Continued competing in regional tournaments through summer 2026, with a first-place finish at Kanterbury Clash.
 
-My competitive experience spans local events, invitationals, online tournaments, collegiate competition, and community crew battles.
+Over time, my character choices changed, too. Pac-Man remained a defining part of my competitive identity, while Ice Climbers became another major focus toward the end of my career.
 
-Notable accomplishments include:
+### 2. Community Leadership and Event Organization
 
-- Ranked #1 overall in the Scripps Ranch Power League
-- Winner of ARSC Smash Strike 2020
-- Qualified for the SSF2 Oasis Invitational
-- Competed for Aztec Esports at San Diego State University
-- Multiple top finishes across grassroots tournaments and leagues
+Competition was only one part of my involvement. I also wanted to contribute to the communities that made competing worthwhile.
 
-### 2) Community Leadership
+- Founded and led PlayRiDise, a Super Smash Flash 2 crew that won the SSF2 Crew League for two seasons.
+- Helped organize grassroots tournaments and community events.
+- Contributed to the San Diego competitive scene and its scholastic communities.
+- Assisted with Aztec Games event production at SDSU.
+- Supported newer competitors and teammates through mentorship and coaching.
 
-Beyond competition, I contributed to the communities I participated in.
+These experiences taught me that a competitive community is not sustained by players alone. It takes people willing to organize events, welcome newcomers, preserve information, and invest time in making the experience meaningful for everyone.
 
-Examples include:
+### 3. Commentary and Broadcasting
 
-- Founding the Peacekeepers crew during the early Flash Party competitive scene
-- Helping co-organize events within the Scripps Ranch Power League
-- Supporting grassroots tournament operations and community initiatives
-- Mentoring newer competitors and contributing to local competitive environments
+I also contributed to the scene through tournament commentary and broadcasting.
 
-Many of the communities I participated in were volunteer-driven, requiring members to actively create the spaces they wanted to see.
+Commentary gave me a different way to engage with competition. Instead of focusing only on my own decisions, I had to understand what other players were doing, communicate the significance of those decisions, and help an audience follow the action.
 
-### 3) Commentary and Broadcasting
+I occasionally commentated at community events, including Aztec Infinite Games. It became another way to participate in the community, even when I wasn't the person playing on stage.
 
-I have provided commentary for community tournaments across multiple titles.
+### 4. Documentation and Historical Preservation
 
-Through commentary, I developed skills in:
+Throughout my career, I cared about keeping track of where I had been and what I had accomplished.
 
-- Live communication
-- Audience engagement
-- Analytical storytelling
-- Explaining complex competitive situations in real time
+That interest led me to maintain records of my tournament history, player profiles, rankings, and community involvement. My SmashWiki page became a particularly meaningful record of that history.
 
-These experiences strengthened my confidence in public speaking and communicating technical ideas under pressure.
+I have always been interested in how information is collected, organized, and preserved. Keeping a record of my competitive career was a personal version of that same interest: taking experiences that could otherwise disappear into old brackets and scattered community posts and giving them a place to remain accessible.
 
-### 4) Competitive History Preservation
+## What I Take Away From It
 
-One project I am particularly proud of is building and maintaining a public archive documenting my competitive history.
+For a long time, competitive gaming gave me a straightforward way to measure improvement.
 
-This includes:
+There was always another tournament, another opponent, another ranking, or another result to work toward. When I lost, I could review the set, identify mistakes, and decide what to change. When I won, I had tangible evidence that the work was paying off.
 
-- A dedicated website summarizing my competitive career
-- Public player profiles across tournament platforms
-- Historical tournament records and results
-- Community documentation contributions
+That environment taught me a lot about deliberate improvement. I learned to evaluate my own performance, recognize weaknesses, make adjustments, and keep working even when progress was difficult to see.
 
-As a data science student, I have always been interested in preserving information. Building an organized record of my own competitive journey became a way to combine that interest with a community that has been important to me for years.
+But the most lasting lessons came from the people and communities around the competition.
 
-## Outcomes I'm Proud Of
+I learned that leadership often means doing work that doesn't appear on a scoreboard. Organizing an event, helping a newer player, commentating a tournament, or keeping a community's history documented may never earn a ranking, but those contributions help create something that lasts beyond an individual result.
 
-- Maintained active involvement in competitive gaming communities for more than six years
-- Competed across multiple games, formats, and competitive environments
-- Earned #1 overall ranking in the Scripps Ranch Power League
-- Represented Aztec Esports at San Diego State University
-- Built a publicly accessible archive documenting my competitive history
-- Contributed to community growth through commentary, organization, and leadership
+I also learned that commitment doesn't have to last forever to have been meaningful.
 
-## What I Learned
+## Closing This Chapter
 
-Competitive gaming taught me lessons that continue to influence my academic and professional work.
+In August 2026, I realized that I had attended my last tournament. There wasn't a formal announcement or a defining final moment. I simply stopped entering brackets.
 
-The most important thing was learning how to improve after failure.
+I had spent years asking myself how much better I could become. Eventually, I found myself asking a different question: who am I when improvement is no longer measured by a ranking, a bracket, or a win?
 
-Tournament losses provide immediate feedback. There are no shortcuts, and progress often requires honest self-assessment. Over time, I learned how to analyze performance objectively, identify weaknesses, and make deliberate adjustments.
+I don't have a complete answer yet.
 
-Community involvement taught me something equally valuable: meaningful organizations do not appear automatically. They are built by people willing to invest time, energy, and care into creating spaces for others.
+What I do know is that I am grateful for the time I spent competing, the people who helped me along the way, and the communities that gave me somewhere to belong. I am proud of the results, but I am just as proud of the work that happened outside of competition.
 
-Many of the leadership skills I later applied in student organizations were first developed in grassroots gaming communities.
+My name may not appear in future brackets, but it remains in the records, events, friendships, and communities that were part of this chapter.
 
-## How This Connects To My Work Today
+And that is enough.
 
-My experiences in esports reinforced many of the same skills that drive my work in data science and operations:
-
-- Continuous improvement
-- Strategic decision-making
-- Performance under pressure
-- Community leadership
-- Long-term project ownership
-- Building systems that persist beyond a single event or individual
-
-Whether analyzing data, leading projects, or competing in tournament environments, I am motivated by the same idea: understanding complex systems and finding ways to improve them.
+The skills I developed through competitive gaming: strategic thinking, resilience, communication, leadership, and long-term commitment, will continue to influence how I approach the work I do next.
 
 ---
 
 ### External Links
 
-- 📎 [Competitive History Website](https://filipino-boyfriend.github.io/Competitive-History/#about)
 - 📎 [start.gg Profile](https://www.start.gg/user/58c2ad11/)
 - 📎 [Supermajor Player Profile](https://www.supermajor.gg/ultimate/player/Filipino%20Boyfriend?id=S4843287)
-- 📎 [SSBWiki Page](https://www.ssbwiki.com/User:Filipino_Boyfriend)
-- 📎 [Competitive Archive GitHub Repository](https://github.com/filipino-boyfriend/Competitive-History)
+- 📎 [SSBWiki Page](https://www.ssbwiki.com/User:McAelan)
 - 📎 [Aztec Esports](https://www.instagram.com/aztecgamingsdsu/?hl=en)
 
 ### Acknowledgment
