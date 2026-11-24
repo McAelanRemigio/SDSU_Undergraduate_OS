@@ -172,7 +172,7 @@ Additional coursework not detailed here.
 
 ### Highlighted Coursework
 - 📎 [STAT 551B – Probability and Mathematical Statistics](https://github.com/McAelanRemigio/SDSU_Undergraduate_OS/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/STAT%20551B%3A%20Probability%20and%20Mathematical%20Statistics%20(Statistical%20Inference)) (3 units)
-📎 [LING 583 – Statistical Methods in Text Analysis](https://github.com/McAelanRemigio/SDSU_Undergraduate_OS/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/LING%20583:%20Statistical%20Methods%20in%20Text%20Analysis%20(Python)) (3 units)
+- 📎 [LING 583 – Statistical Methods in Text Analysis](https://github.com/McAelanRemigio/SDSU_Undergraduate_OS/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/LING%20583:%20Statistical%20Methods%20in%20Text%20Analysis%20(Python)) (3 units)
 
 ### Concurrent Experience
 - Data Assistant (S&O), SDSU Global Education Office: 20 hrs/week
