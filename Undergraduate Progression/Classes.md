@@ -153,3 +153,28 @@ Additional coursework not detailed here.
 - Instructional Assistant (CS 577): 15 hrs/week (through July 2026)
 
 ---
+## Fall 2026
+**Units:** 15
+
+### Highlighted Coursework
+- 📎 [STAT 551A – Probability and Mathematical Statistics](https://github.com/McAelanRemigio/SDSU_Undergraduate_OS/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/STAT%20551A%3A%20Probability%20and%20Mathematical%20Statistics%20(Probability%20Theory)) (3 units)
+- 📎 [GEOG 385 – Spatial Data Analysis](https://github.com/McAelanRemigio/SDSU_Undergraduate_OS/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/GEOG%20385%3A%20Spatial%20Data%20Analysis%20(Python)) (3 units)
+
+### Concurrent Experience
+- Data Assistant (S&O), SDSU Global Education Office: 12 hrs/week
+- Instructional Assistant (CS 577): 8 hrs/week 
+
+Additional coursework not detailed here.
+
+---
+## Spring 2027
+**Units:** 9
+
+### Highlighted Coursework
+- 📎 [STAT 551B – Probability and Mathematical Statistics](https://github.com/McAelanRemigio/SDSU_Undergraduate_OS/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/STAT%20551B%3A%20Probability%20and%20Mathematical%20Statistics%20(Statistical%20Inference)) (3 units)
+📎 [LING 583 – Statistical Methods in Text Analysis](https://github.com/McAelanRemigio/SDSU_Undergraduate_OS/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/LING%20583:%20Statistical%20Methods%20in%20Text%20Analysis%20(Python)) (3 units)
+
+### Concurrent Experience
+- Data Assistant (S&O), SDSU Global Education Office: 20 hrs/week
+
+Additional coursework not detailed here.
